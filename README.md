@@ -19,3 +19,5 @@ https://valksam.github.io/JS10/
 https://valksam.github.io/JS12/
 
 https://valksam.github.io/JS14/
+
+https://valksam.github.io/JS16/
