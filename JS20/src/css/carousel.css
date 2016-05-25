@@ -1,0 +1,24 @@
+.carousel__wrapper {
+  text-align: center;
+  margin: 0 0 65px 0;
+  width: 100%;
+  overflow: hidden;
+  height: 470px; }
+
+.carousel__slide-wrapper {
+  height: 470px;
+  width: 99999px;
+  overflow: hidden;
+  Transition: all 1s; }
+
+.carousel__slide {
+  float: left; }
+
+.carousel__paginator-wrapper {
+  margin: -20px 0 0 0; }
+
+.carousel__paginator-button {
+  display: inline-block;
+  margin: 0 5px; }
+
+/*# sourceMappingURL=carousel.css.map */

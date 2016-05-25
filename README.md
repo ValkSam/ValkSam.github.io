@@ -25,3 +25,5 @@ https://valksam.github.io/JS16/
 https://valksam.github.io/JS18/
 
 https://valksam.github.io/JS18-GULP/
+
+https://valksam.github.io/JS20/
